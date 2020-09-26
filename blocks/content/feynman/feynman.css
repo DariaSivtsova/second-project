@@ -1,0 +1,10 @@
+.feynman{
+    background-color: #f2f2f2;
+    height: 790px;
+    background-image: url("../../../../first-project/how-to-learn/images/feynman.png");
+    background-size: 867px 637px cover;
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    text-align: center;
+    position: relative;
+   }
